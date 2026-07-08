@@ -6,6 +6,7 @@ hike all colorado 14ers
 hike mt whitney
 hike cactus to clouds
 hike the matterhorn
+hike mt denali
 visit all us national parks         (done 13/63)
 backpack in europe
 visit a bortle 0                    (done May 16 2026)
@@ -18,3 +19,4 @@ run a marathon
 learn a hand stand push up
 master the guitar
 first professional photography sale (done December 2022)
+100 different concerts
